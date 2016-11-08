@@ -1,0 +1,68 @@
+/* Inserta tu CSS aqui */
+.cancha{
+	background: #A8D067;
+	width: 850px;
+	height: 550px;
+	border: 1px solid white;
+	position: static;
+}
+
+
+.marco{
+	border: 1px solid white;
+	width: 800px;
+	height: 500px;
+	background: #A8D067;
+	position: static;
+	margin-top: 25px;
+}
+.arco1{
+	float: left;
+	border: 1px solid white;
+	width: 70px;
+	height: 140px;
+	margin-top: 200px;
+	border-left: 0px;
+	position: relative;
+}
+
+.arco2{
+	float: right;
+	border: 1px solid white;
+	width: 70px;
+	height: 140px;
+	margin-top:-130px;
+	border-right: 0px;
+	position: relative;
+}
+
+.circulo{
+	width: 160px;
+    height: 160px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:#A8D067;
+    border: 1px solid white;
+	position: relative;
+	margin-left: 50px;
+	margin-top: 170px;
+}
+
+.pelota1{
+	position:absolute;
+	top: 238px;
+	left: 93px;
+}
+.pelota2{
+	position:absolute;
+	top: 150px;
+	left:490px;
+}
+.pelota3{
+	position:absolute;
+	top: 350px;
+	left:735px;
+}
+
+
